@@ -12,4 +12,4 @@ features:
 security:
   jwtSecret: ''
 contracts:
-  pingPong: 'erd1qqqqqqqqqqqqqpgquvt728n40ssd8n2qns9jrlqpwq2jc4rj4cysfuj3ad'
+  pingPong: 'erd1qqqqqqqqqqqqqpgqvuhp2tyyld4fdhnzhur8lkr8mxrp72x2gn8qx80urf'

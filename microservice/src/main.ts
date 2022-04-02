@@ -53,7 +53,7 @@ async function bootstrap() {
 
   if (apiConfigService.getIsPrivateApiFeatureActive()) {
     const privateApp = await NestFactory.create(PrivateAppModule);
-    await privateApp.listen(4000);
+    await privateApp.listen(3001);
   }
 
   if (apiConfigService.getIsTransactionProcessorFeatureActive()) {
